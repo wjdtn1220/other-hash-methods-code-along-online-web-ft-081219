@@ -9,5 +9,4 @@
 
 def get_the_values(groceries)
   groceries.values
-  return groceries
 end
